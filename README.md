@@ -2,7 +2,11 @@
 
 A modern **React frontend** for a Food Delivery application with elegant UI and cart functionality.
 
-![Homepage Screenshot](./Screenshots/homepage.png)
+![Screenshot](./Screenshots/s1.png)
+![Screenshot](./Screenshots/s2.png)
+![Screenshot](./Screenshots/s3.png)
+![Screenshot](./Screenshots/s4.png)
+![Screenshot](./Screenshots/s5.png)
 
 ## Live Demo
 Check out the live demo here: [Food Delivery App](https://food-delivery-liart-nine.vercel.app/)
