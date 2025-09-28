@@ -4,11 +4,11 @@ A modern **React frontend** for a Food Delivery application with elegant UI and 
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/s1.png)
-![Screenshot 2](Screenshots/s2.png)
-![Screenshot 3](Screenshots/s3.png)
-![Screenshot 4](Screenshots/s4.png)
-![Screenshot 5](Screenshots/s5.png)
+![Screenshots 1](Screenshots/s1.png)
+![Screenshots 2](Screenshots/s2.png)
+![Screenshots 3](Screenshots/s3.png)
+![Screenshots 4](Screenshots/s4.png)
+![Screenshots 5](Screenshots/s5.png)
 
 ---
 
