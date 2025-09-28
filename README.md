@@ -5,7 +5,7 @@ A modern **React frontend** for a Food Delivery application with elegant UI and 
 ![Homepage Screenshot](./Screenshots/homepage.png)
 
 ## Live Demo
-Check out the live demo here: [Food Delivery App](https://your-vercel-url.vercel.app/)
+Check out the live demo here: [Food Delivery App](https://food-delivery-liart-nine.vercel.app/)
 
 ---
 
