@@ -14,7 +14,7 @@ A modern React frontend for a Food Delivery application with elegant UI and cart
 ---
 
 ## Live Demo
-👉 [View the live demo](https://YOUR_VERCEL_URL)  
+👉 [View the live demo](https://food-delivery-liart-nine.vercel.app/)  
 
 *(Replace the link above with your Vercel / Netlify URL.)*
 
